@@ -3039,6 +3039,19 @@ textarea.form-control-lg {
   background-color: #0b5ed7;
   border-color: #0a58ca;
 }
+
+/* custom */
+.btn-orange {
+  color: #fff;
+  background-color: #ee9d35;
+  border-color: #ee9d35;
+}
+.btn-orange:hover {
+  color: #fff;
+  background-color: #ee9d35;
+  border-color: #ec9f39;
+}
+
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
   background-color: #0b5ed7;
